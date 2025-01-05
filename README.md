@@ -1,2 +1,2 @@
 # Security-System-in-python <br>
-## This project got reviewed for an accredation in our college in  Year-2022, but reuploading rightnow <br>
+## During my second year, This project was one of many which got reviewed for an accredation to our college in Year-2022, but reuploading rightnow <br>
